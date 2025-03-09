@@ -4,7 +4,11 @@ Script for automation
 
 ## Description
 
-This project aims to ease the task of dataframe or enething else.
+This project aims to ease the task of software engineers and programmers. Scripts of different tasks are in folders. 
+
+RenameColumn: Rename column's name of a dataframe by removing the unwanted character
+
+CatByImageType: Copy images from a folder to a folder. Each folder contains images of a specific type.  
 
 ## Installation
 
