@@ -10,6 +10,12 @@ RenameColumn: Rename column's name of a dataframe by removing the unwanted chara
 
 CatByImageType: Copy images from a folder to a folder. Each folder contains images of a specific type.  
 
+MergeFileContent: ✅ Supports multiple formats (TXT, CSV, JSON, PDF, DOCX)
+✅ Intelligently merges files based on type
+✅ Easy UI for file selection
+✅ Automatically detects format & saves merged content accordingly
+✅ run the script with command python index.py
+
 ## Installation
 
 1. Clone the repository:  
