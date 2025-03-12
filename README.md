@@ -14,13 +14,12 @@ MergeFileContent: ✅ Supports multiple formats (TXT, CSV, JSON, PDF, DOCX)
 ✅ Intelligently merges files based on type
 ✅ Easy UI for file selection
 ✅ Automatically detects format & saves merged content accordingly
-✅ Compile source to produce FileMerger.app and FileMerger.dmg(Installer)
+✅ Right now Compile source to produce FileMerger.app and FileMerger.dmg(Installer) for Mac OS
 
   1. pyinstaller --onefile --windowed --icon=fileMerger.icns fileMerger.py
 
   2. create-dmg --volname "FileMerger Installer" dist/FileMerger.dmg dist/FileMerger.app
 
-✅ Right now it is working for Mac. Install it using dist/FileMerger.dmg
 
 ## Installation
 
